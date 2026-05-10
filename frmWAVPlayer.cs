@@ -59,7 +59,7 @@ namespace WAVPlayer
         private void btnEnd_Click(object sender, EventArgs e)
         {
             Application.Exit();
-        }
+        } 
 
         private void frmWAVPlayer_FormClosing(object sender, FormClosingEventArgs e)
         {
